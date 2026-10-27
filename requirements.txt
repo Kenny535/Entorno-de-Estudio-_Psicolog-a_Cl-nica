@@ -1,0 +1,10 @@
+# Entorno de Estudio - Psicología Clínica
+# Requiere Streamlit >= 1.50: la interfaz usa st.iframe, st.container(border=True)
+# y st.toggle, que no existen en versiones anteriores.
+streamlit>=1.50.0
+pywin32>=306
+python-docx>=1.1.0
+python-pptx>=0.6.21
+pypdf>=3.17.0
+PyYAML>=6.0
+requests>=2.31.0
